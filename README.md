@@ -1,5 +1,6 @@
-#Results of projects
+# Results of projects
 
+Deployed using firebase:
 https://wira027-counterapp.web.app/
 
 # Getting Started with Create React App
